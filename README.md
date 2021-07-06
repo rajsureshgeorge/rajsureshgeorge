@@ -1,17 +1,9 @@
-### Hi there 👋
 
-                     _     _ _______                _____ 
-                     |_____| |______ |      |      |     |
-                     |     | |______ |_____ |_____ |_____|
-                                                           
-  _______ _     _ _______  ______ _______             _____      _______ _______
-     |    |_____| |______ |_____/ |______               |        |_____| |  |  |
-     |    |     | |______ |    \_ |______      .      __|__      |     | |  |  |
-                                              '                                
-                                ______ _______ _____
-                               |_____/ |_____|   |  
-                               |    \_ |     | __|  
-                                                   
+<p style="text-align: center" >Hello<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</p>
+
+ ![image](https://user-images.githubusercontent.com/66456103/124557225-dfe7db80-de56-11eb-99dd-27460a70d59d.png)
+                                                  
 
 - 🔭 I’m currently working on projects on Python
 - 🌱 I’m currently learning Python and also on Linux 
