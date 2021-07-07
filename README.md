@@ -9,7 +9,7 @@
 ---     
 <p align="center">
   <b>Stats :</b><br>
-  <b>- 🔭 I’m currently working on projects on Python</b> <br>
+  <b>- 🔭 I’m currently working projects on Python</b> <br>
   <b>- 🌱 I’m currently learning Python and also about Linux </b> <br>
   <b >- 💬 Ask me about Anything</b><br>
   <br><br>
