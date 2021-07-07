@@ -29,7 +29,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💼 reach me by [mail](mailto:rajsureshgeo@protonmail.com) 
 - 💬 ask me about anything, i am happy to help;
 - 👯 We can connect to do something on linux
-- ⚡ Fun fact: Ich versuche Deutsch zu lernen
+- ⚡ Fun fact: Deutsch lernen
 
 
 
