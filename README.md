@@ -13,7 +13,7 @@
   <b>- 🌱 I’m currently learning Python and also about Linux </b> <br>
   <b >- 💬 Ask me about Anything</b><br>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsureshgeorge&langs_count=5&theme=radical">
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsureshgeorge&langs_count=5&theme=radical">-->
 </p>
 
 
@@ -40,7 +40,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <p align="center">
 
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=rajsureshgeorge&show_icons=true&theme=radical&show_owner=true&hide=contribs,stars&count_private=true">
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=rajsureshgeorge&show_icons=true&theme=radical&show_owner=true&hide=contribs,stars&count_private=true"> -->
   <br>
 </p>
 
