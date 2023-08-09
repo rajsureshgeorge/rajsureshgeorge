@@ -27,7 +27,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <p align="center">
 <br/>
 <a href="https://twitter.com/rajsureshgeorge">  
-  <img alt="Raj | Twitter" width="30px" src="https://icons8.com/icon/z6gJ8gyjaapn/twitter" />
+  <img alt="Raj's Twitter" width="30px" src="https://icons8.com/icon/z6gJ8gyjaapn/twitter" />
 
 </a>
 
