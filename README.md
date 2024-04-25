@@ -35,7 +35,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img alt="Raj's Github" width="30px" src="https://icons8.com/icon/v551nqGeHhGn/github" />
 </a>
 <a href="mailto:rajsureshgeo@protonmail.com">
-  <img alt="Raj's Mail" width="30px" src="https://icons8.com/icon/2FxDGcmY6mE9/letter" />
+  <img alt="Raj's Mail" width="30px" src="https://icons8.com/icon/62/letter" />
 </a>
 
 </p>
