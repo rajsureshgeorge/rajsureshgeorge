@@ -14,7 +14,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 👯 We can connect to do something on anything related to Technology.
 - ⚡ Fun fact: Deutsch lernen
 
-[BLOG ZONE](https://rajsureshgeorge.github.io/)
+- [BLOG ZONE](https://rajsureshgeorge.github.io/)
+
 ---     
 <p align="center">
   <b>Stats :</b><br>
